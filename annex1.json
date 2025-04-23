@@ -1,0 +1,1993 @@
+[
+    {
+        "id": "CENTRO_GROUP",
+        "definition": [
+            [
+                "LEVD",
+                "LESA",
+                "LELN"
+            ]
+        ],
+        "cacdId": ""
+    },
+    {
+        "id": "AJACCIO_GROUP",
+        "definition": [
+            [
+                "LFKF",
+                "LFKG",
+                "LFKJ",
+                "LFKO"
+            ]
+        ],
+        "cacdId": "CACD ID: LFKJTMA"
+    },
+    {
+        "id": "AMSTERDAM_GROUP",
+        "definition": [
+            [
+                "EHAM",
+                "EHHV",
+                "EHKD",
+                "EHLE",
+                "EHRD",
+                "EHTX"
+            ]
+        ],
+        "cacdId": "CACD ID: EHAMTMA"
+    },
+    {
+        "id": "AZORES_GROUP",
+        "definition": [
+            [
+                "LPAZ",
+                "LPCR",
+                "LPES",
+                "LPFL",
+                "LPGR",
+                "LPHR",
+                "LPLA",
+                "LPPD",
+                "LPPI",
+                "LPSJ"
+            ]
+        ],
+        "cacdId": "CACD ID: AZORES"
+    },
+    {
+        "id": "BALEARES_GROUP",
+        "definition": [
+            [
+                "LEIB",
+                "LEMH",
+                "LEPA",
+                "LESB",
+                "LESJ",
+                "LESL"
+            ]
+        ],
+        "cacdId": "CACD ID: LEPATMA"
+    },
+    {
+        "id": "BARCELONA_GROUP",
+        "definition": [
+            [
+                "LEBL",
+                "LEDA",
+                "LEGE",
+                "LERS",
+                "LELL"
+            ]
+        ],
+        "cacdId": "CACD ID: LEBLTMA"
+    },
+    {
+        "id": "BASEL_GROUP",
+        "definition": [
+            [
+                "LFGA",
+                "LFGB",
+                "LFSB",
+                "LFSM"
+            ]
+        ],
+        "cacdId": "CACD ID: LFSBTMA"
+    },
+    {
+        "id": "BASTIA_GROUP",
+        "definition": [
+            [
+                "LFKB",
+                "LFKC",
+                "LFKS"
+            ]
+        ],
+        "cacdId": "CACD ID: LFKBTMA"
+    },
+    {
+        "id": "BEAUVAIS_GROUP",
+        "definition": [
+            [
+                "LFOB",
+                "LFOE",
+                "LFOH",
+                "LFOK",
+                "LFOP",
+                "LFRC",
+                "LFRG",
+                "LFRK"
+            ]
+        ],
+        "cacdId": "CACD ID: LFOBTMA"
+    },
+    {
+        "id": "BELFAST_GROUP",
+        "definition": [
+            [
+                "EGAA",
+                "EGAC",
+                "EGAD",
+                "EGAE",
+                "EGAL"
+            ]
+        ],
+        "cacdId": "CACD ID: EGAATMA"
+    },
+    {
+        "id": "BERLIN_YZ_GROUP",
+        "definition": [
+            [
+                "EDAE",
+                "EDAV",
+                "EDBW",
+                "EDON"
+            ]
+        ],
+        "cacdId": "CACD ID: BERLINGR"
+    },
+    {
+        "id": "BERN_GROUP",
+        "definition": [
+            [
+                "LSMA",
+                "LSME",
+                "LSZB",
+                "LSZG",
+                "LSZC"
+            ]
+        ],
+        "cacdId": "CACD ID: BERN"
+    },
+    {
+        "id": "BIARRITZ_GROUP",
+        "definition": [
+            [
+                "LFBY",
+                "LFBZ",
+                "LFCZ",
+                "LESO"
+            ]
+        ],
+        "cacdId": "CACD ID: LFBZTMA"
+    },
+    {
+        "id": "BORDEAUX_AREA",
+        "definition": [
+            [
+                "LFBA",
+                "LFBC",
+                "LFBD",
+                "LFBE",
+                "LFBF",
+                "LFBG",
+                "LFBH",
+                "LFBI",
+                "LFBK",
+                "LFBL",
+                "LFBM",
+                "LFBN",
+                "LFBO",
+                "LFBP",
+                "LFBR",
+                "LFBS",
+                "LFBT",
+                "LFBU",
+                "LFBX",
+                "LFBY",
+                "LFBZ",
+                "LFCC",
+                "LFCD",
+                "LFCG",
+                "LFCH",
+                "LFCI",
+                "LFCJ",
+                "LFCK",
+                "LFCL",
+                "LFCN",
+                "LFCP",
+                "LFCQ",
+                "LFCR",
+                "LFCS",
+                "LFCU",
+                "LFCW",
+                "LFCX",
+                "LFCY",
+                "LFCZ",
+                "LFDA",
+                "LFDB",
+                "LFDC",
+                "LFDH",
+                "LFDI",
+                "LFDJ",
+                "LFDK",
+                "LFDM",
+                "LFDN",
+                "LFDP",
+                "LFDR",
+                "LFDS",
+                "LFDU",
+                "LFDX",
+                "LFIT",
+                "LFIV",
+                "LFLT",
+                "LFLW",
+                "LFLX",
+                "LFMK",
+                "LFMW",
+                "LFSL",
+                "LFXB"
+            ]
+        ],
+        "cacdId": "CACD ID: LFBBCTA"
+    },
+    {
+        "id": "BORDEAUX_GROUP",
+        "definition": [
+            [
+                "LFBC",
+                "LFBD",
+                "LFBE",
+                "LFBG",
+                "LFBS",
+                "LFBX",
+                "LFCH",
+                "LFCY",
+                "LFDI"
+            ]
+        ],
+        "cacdId": "CACD ID: LFBDTMA"
+    },
+    {
+        "id": "BREST_GROUP",
+        "definition": [
+            [
+                "LFRB",
+                "LFRU",
+                "LFRO",
+                "LFRJ"
+            ]
+        ],
+        "cacdId": "CACD ID: LFRBTMA"
+    },
+    {
+        "id": "BRIZE_GROUP",
+        "definition": [
+            [
+                "EGBJ",
+                "EGDL",
+                "EGVA",
+                "EGVN"
+            ]
+        ],
+        "cacdId": "CACD ID: EGDL+3"
+    },
+    {
+        "id": "BRNO_GROUP",
+        "definition": [
+            [
+                "LKTB",
+                "LKKU",
+                "LKNA"
+            ]
+        ],
+        "cacdId": "CACD ID: BRNO GR"
+    },
+    {
+        "id": "BRUSSELS_GROUP",
+        "definition": [
+            [
+                "EBAW",
+                "EBBR",
+                "EBCI",
+                "EBCV",
+                "EBMB"
+            ]
+        ],
+        "cacdId": "CACD ID: EBBRTMA"
+    },
+    {
+        "id": "BUDAPEST_GROUP",
+        "definition": [
+            [
+                "LHBP",
+                "LHBS",
+                "LHDK",
+                "LHEM",
+                "LHFH",
+                "LHGD",
+                "LHHH",
+                "LHTL"
+            ]
+        ],
+        "cacdId": "CACD ID: LHBPTMA"
+    },
+    {
+        "id": "CAIRO_GROUP",
+        "definition": [
+            [
+                "HECA",
+                "HEAZ",
+                "HECP",
+                "HESX"
+            ]
+        ],
+        "cacdId": "CACD ID: HECAGR"
+    },
+    {
+        "id": "CANARY_GROUP",
+        "definition": [
+            [
+                "GCRR",
+                "GCFV",
+                "GCXO",
+                "GCTS",
+                "GCHI",
+                "GCLP",
+                "GCLA",
+                "GCGM"
+            ]
+        ],
+        "cacdId": ""
+    },
+    {
+        "id": "CANTABRICO_GROUP",
+        "definition": [
+            [
+                "LEBB",
+                "LEBG",
+                "LEPP",
+                "LERJ",
+                "LESO",
+                "LEVT",
+                "LEXJ"
+            ]
+        ],
+        "cacdId": "CACD ID: LEBB+5"
+    },
+    {
+        "id": "CHAMBERY_GROUP",
+        "definition": [
+            [
+                "LFHM",
+                "LFHU",
+                "LFKA",
+                "LFKX",
+                "LFLB",
+                "LFLE",
+                "LFLJ",
+                "LFLP"
+            ]
+        ],
+        "cacdId": "CACD ID: LFLBTMA"
+    },
+    {
+        "id": "CLERMONT_FERRAND_GROUP",
+        "definition": [
+            [
+                "LFHA",
+                "LFHQ",
+                "LFKM",
+                "LFLC",
+                "LFLV",
+                "LFLZ"
+            ]
+        ],
+        "cacdId": "CACD ID: LFLCTMA"
+    },
+    {
+        "id": "COLOGNE_YZ_GROUP",
+        "definition": [
+            [
+                "EDKN",
+                "EDKZ",
+                "EDKF",
+                "EDKL",
+                "EDKH",
+                "EDKI",
+                "EDKB",
+                "EDRA",
+                "EDRW",
+                "EDRV",
+                "EDRE",
+                "EDKV"
+            ]
+        ],
+        "cacdId": "CACD ID: EDKK GR"
+    },
+    {
+        "id": "COPENHAGEN_GROUP",
+        "definition": [
+            [
+                "EKCH",
+                "EKFR",
+                "EKGH",
+                "EKGL",
+                "EKHE",
+                "EKHK",
+                "EKHO",
+                "EKRH",
+                "EKRK",
+                "EKRS"
+            ]
+        ],
+        "cacdId": "CACD ID: EKCHTMA"
+    },
+    {
+        "id": "CYCLADES_GROUP",
+        "definition": [
+            [
+                "LGMK",
+                "LGNX",
+                "LGPA",
+                "LGSO"
+            ]
+        ],
+        "cacdId": "CACD ID: CYCL1"
+    },
+    {
+        "id": "DEAUVILLE_GROUP",
+        "definition": [
+            [
+                "LFRC",
+                "LFRG",
+                "LFRK",
+                "LFOH"
+            ]
+        ],
+        "cacdId": "CACD ID: LFRGTMA"
+    },
+    {
+        "id": "DUBLIN_GROUP",
+        "definition": [
+            [
+                "EIDG",
+                "EIDW",
+                "EIME",
+                "EIMH",
+                "EINC EIWT"
+            ]
+        ],
+        "cacdId": "CACD ID: EIDWGR"
+    },
+    {
+        "id": "DUESSELDORF_GROUP",
+        "definition": [
+            [
+                "EDDG",
+                "EDDK",
+                "EDDL",
+                "EDGS",
+                "EDKB",
+                "EDKL",
+                "EDLA",
+                "EDLE",
+                "EDLM",
+                "EDLN",
+                "EDLP",
+                "EDLV",
+                "EDLW",
+                "ETNG",
+                "ETNN"
+            ]
+        ],
+        "cacdId": "CACD ID: EDDL GR"
+    },
+    {
+        "id": "DUESSELDORF_YZ_GROUP",
+        "definition": [
+            [
+                "EDLE",
+                "EDLM",
+                "EDLD",
+                "EDLF",
+                "EDLK",
+                "EDKN"
+            ]
+        ],
+        "cacdId": "CACD ID: EDLL GR"
+    },
+    {
+        "id": "EAST_ANGLIAN_GROUP",
+        "definition": [
+            [
+                "EGSH",
+                "EGUL",
+                "EGUN",
+                "EGYM"
+            ]
+        ],
+        "cacdId": "CACD ID: CFEANG"
+    },
+    {
+        "id": "ERFURT_YZ_GROUP",
+        "definition": [
+            [
+                "EDOF",
+                "EDCO",
+                "EDEQ",
+                "EDBS",
+                "EDEB",
+                "EDGE",
+                "EDEG",
+                "EDBA",
+                "EDOB",
+                "EDOU",
+                "EDBJ",
+                "EDOK",
+                "EDOS",
+                "EDQS"
+            ]
+        ],
+        "cacdId": "CACD ID: EDDE GR"
+    },
+    {
+        "id": "FARNBOROUGH_GROUP",
+        "definition": [
+            [
+                "EGHL",
+                "EGLF",
+                "EGLK",
+                "EGTD",
+                "EGTF",
+                "EGVO"
+            ]
+        ],
+        "cacdId": "CACD ID: EGHL+4"
+    },
+    {
+        "id": "FARRIS_GROUP",
+        "definition": [
+            [
+                "ENJB",
+                "ENLU",
+                "ENRK",
+                "ENRY",
+                "ENSN",
+                "ENTO",
+                "ENNO"
+            ]
+        ],
+        "cacdId": "CACD ID: ENFZGRP"
+    },
+    {
+        "id": "FRANKFURT_GROUP",
+        "definition": [
+            [
+                "EDDF",
+                "EDFE",
+                "ETOU"
+            ]
+        ],
+        "cacdId": "CACD ID: EDDF GR"
+    },
+    {
+        "id": "FRANKFURT_YZ_GROUP",
+        "definition": [
+            [
+                "EDEL",
+                "EDFA",
+                "EDFB",
+                "EDFC",
+                "EDFD",
+                "EDFG",
+                "EDFO",
+                "EDFP",
+                "EDFU",
+                "EDFY",
+                "EDFZ",
+                "EDGP"
+            ]
+        ],
+        "cacdId": "CACD ID: EDFF GR"
+    },
+    {
+        "id": "FRIESLAND_GROUP",
+        "definition": [
+            [
+                "EDVH",
+                "EDWE",
+                "EDWF",
+                "EDWG",
+                "EDWH",
+                "EDWI",
+                "EDWJ",
+                "EDWK",
+                "EDWL",
+                "EDWM",
+                "EDWQ",
+                "EDWR",
+                "EDWS",
+                "EDWU",
+                "EDWX",
+                "EDWY",
+                "EDWZ",
+                "EDXI",
+                "EDXL",
+                "EDXP",
+                "EDXQ",
+                "EDXS",
+                "EDXU",
+                "EDXZ"
+            ]
+        ],
+        "cacdId": "CACD ID: FRIES GR"
+    },
+    {
+        "id": "GALICIA_GROUP",
+        "definition": [
+            [
+                "LECO",
+                "LEST",
+                "LEVX"
+            ]
+        ],
+        "cacdId": "CACD ID: LEG"
+    },
+    {
+        "id": "GENEVA_AREA",
+        "definition": [
+            [
+                "LSER",
+                "LSEZ",
+                "LSGB",
+                "LSGC",
+                "LSGE",
+                "LSGK",
+                "LSGN",
+                "LSGR",
+                "LSGS",
+                "LSGT",
+                "LSGY",
+                "LSEA",
+                "LSEC",
+                "LSEG",
+                "LSMP",
+                "LSTB",
+                "LSTO",
+                "LSTR",
+                "LSTS",
+                "LSTZ"
+            ]
+        ],
+        "cacdId": "CACD ID: LSAGCTA"
+    },
+    {
+        "id": "GENEVA_GROUP",
+        "definition": [
+            [
+                "LSGG",
+                "LSGL",
+                "LSGP",
+                "LFLI",
+                "LFHN"
+            ]
+        ],
+        "cacdId": "CACD ID: LSGGTMA"
+    },
+    {
+        "id": "GOTHENBURG_AREA",
+        "definition": [
+            [
+                "ESFA",
+                "ESGF",
+                "ESGN",
+                "ESGR",
+                "ESIA",
+                "ESMF",
+                "ESMH",
+                "ESMT",
+                "ESMU",
+                "ESTA",
+                "ESTL"
+            ]
+        ],
+        "cacdId": "CACD ID: ESGGTMA1"
+    },
+    {
+        "id": "GOTHENBURG_GROUP",
+        "definition": [
+            [
+                "ESFR",
+                "ESGA",
+                "ESGC",
+                "ESGD",
+                "ESGE",
+                "ESGG",
+                "ESGH",
+                "ESGI",
+                "ESGJ",
+                "ESGK",
+                "ESGL",
+                "ESGM",
+                "ESGP",
+                "ESGT",
+                "ESGU",
+                "ESGV",
+                "ESIB",
+                "ESMG",
+                "ESMV",
+                "ESMY",
+                "ESSI"
+            ]
+        ],
+        "cacdId": "CACD ID: ESGGTMA"
+    },
+    {
+        "id": "GRONINGEN_GROUP",
+        "definition": [
+            [
+                "EHGG",
+                "EHHO",
+                "EHLW",
+                "EHTE"
+            ]
+        ],
+        "cacdId": "CACD ID: EHFSR"
+    },
+    {
+        "id": "HAAMSTEDE_GROUP",
+        "definition": [
+            [
+                "EHBD",
+                "EHEH",
+                "EHGR",
+                "EHMZ",
+                "EHRD",
+                "EHSE",
+                "EHVK",
+                "EHWO"
+            ]
+        ],
+        "cacdId": "CACD ID: EHBD GR"
+    },
+    {
+        "id": "HAMBURG_GROUP",
+        "definition": [
+            [
+                "EDDH",
+                "EDHI",
+                "EDHL"
+            ]
+        ],
+        "cacdId": "CACD ID: EDDH GR"
+    },
+    {
+        "id": "HAVEL_GROUP",
+        "definition": [
+            [
+                "EDAD",
+                "EDAE",
+                "EDAI",
+                "EDAP",
+                "EDAS",
+                "EDAV",
+                "EDAY",
+                "EDBE",
+                "EDBF",
+                "EDBG",
+                "EDBK",
+                "EDBO",
+                "EDBQ",
+                "EDBW",
+                "EDCE",
+                "EDCF",
+                "EDCL",
+                "EDCQ",
+                "EDCS",
+                "EDHC",
+                "EDOC",
+                "EDOD",
+                "EDOG",
+                "EDOI",
+                "EDOJ",
+                "EDOL",
+                "EDOM",
+                "EDON",
+                "EDOR",
+                "EDOV",
+                "EDOY",
+                "EDOZ",
+                "EDUA",
+                "EDUF",
+                "EDUG",
+                "EDUS",
+                "EDUZ"
+            ]
+        ],
+        "cacdId": "CACD ID: HAVEL GR"
+    },
+    {
+        "id": "IONIAN_GROUP",
+        "definition": [
+            [
+                "LGAD",
+                "LGKC",
+                "LGKF",
+                "LGKL",
+                "LGKR",
+                "LGPZ",
+                "LGRX",
+                "LGZA"
+            ]
+        ],
+        "cacdId": "CACD ID: IONIAN G"
+    },
+    {
+        "id": "ISTANBUL_GROUP",
+        "definition": [
+            [
+                "LTBA",
+                "LTBR",
+                "LTBW",
+                "LTFJ"
+            ]
+        ],
+        "cacdId": "CACD ID: LTBA GR"
+    },
+    {
+        "id": "JERSEY_GROUP",
+        "definition": [
+            [
+                "EGJA",
+                "EGJB",
+                "EGJJ"
+            ]
+        ],
+        "cacdId": "CACD ID: EGJJTMA"
+    },
+    {
+        "id": "KARLSTAD_GROUP",
+        "definition": [
+            [
+                "ESEU",
+                "ESGA",
+                "ESGN",
+                "ESGS",
+                "ESGU",
+                "ESGY",
+                "ESHV",
+                "ESKH",
+                "ESKO",
+                "ESKU",
+                "ESKV",
+                "ESOH",
+                "ESOK",
+                "ESSM",
+                "ESST",
+                "ESTF"
+            ]
+        ],
+        "cacdId": "CACD ID: ESOKGRP"
+    },
+    {
+        "id": "KJEVIK_GROUP",
+        "definition": [
+            [
+                "ENAR",
+                "ENCN",
+                "ENGK"
+            ]
+        ],
+        "cacdId": "CACD ID: ENCNGRP"
+    },
+    {
+        "id": "LILLE_GROUP",
+        "definition": [
+            [
+                "LFAC",
+                "LFAQ",
+                "LFAT",
+                "LFAV",
+                "LFAY",
+                "LFQQ",
+                "LFQO",
+                "LFQT"
+            ]
+        ],
+        "cacdId": "CACD ID: LFQQTMA"
+    },
+    {
+        "id": "LIMOGES_GROUP",
+        "definition": [
+            [
+                "LFBL",
+                "LFBK",
+                "LFBU",
+                "LFLD",
+                "LFOA",
+                "LFSL"
+            ]
+        ],
+        "cacdId": "CACD ID: LIMOGES"
+    },
+    {
+        "id": "LISBON_GROUP",
+        "definition": [
+            [
+                "LPAR",
+                "LPCS",
+                "LPMT",
+                "LPPT"
+            ]
+        ],
+        "cacdId": "CACD ID: LISBON"
+    },
+    {
+        "id": "LKVFR_GROUP",
+        "definition": [
+            [
+                "LKBA",
+                "LKBE",
+                "LKBO",
+                "LKBR",
+                "LKBU",
+                "LKCB",
+                "LKCE",
+                "LKCM",
+                "LKCR",
+                "LKCT",
+                "LKDK",
+                "LKER",
+                "LKFR",
+                "LKHB",
+                "LKHC",
+                "LKHD",
+                "LKHK",
+                "LKHN",
+                "LKHS",
+                "LKHV",
+                "LKCH",
+                "LKJA",
+                "LKJC",
+                "LKJH",
+                "LKJI",
+                "LKKA",
+                "LKKL",
+                "LKKM",
+                "LKKO",
+                "LKKR",
+                "LKKT",
+                "LKKY",
+                "LKLB",
+                "LKLN",
+                "LKLT",
+                "LKMB",
+                "LKMH",
+                "LKMI",
+                "LKMK",
+                "LKMO",
+                "LKMR",
+                "LKNM",
+                "LKOL",
+                "LKPA",
+                "LKPC",
+                "LKPI",
+                "LKPJ",
+                "LKPO",
+                "LKPL",
+                "LKPM",
+                "LKPN",
+                "LKPS",
+                "LKRA",
+                "LKRK",
+                "LKRO",
+                "LKRY",
+                "LKSA",
+                "LKSB",
+                "LKSK",
+                "LKSN",
+                "LKSO",
+                "LKSR",
+                "LKST",
+                "LKSU",
+                "LKSZ",
+                "LKTA",
+                "LKTC",
+                "LKTD",
+                "LKTO",
+                "LKUL",
+                "LKUO",
+                "LKVL",
+                "LKVM",
+                "LKVP",
+                "LKVR",
+                "LKVY",
+                "LKZA",
+                "LKZB",
+                "LKZD",
+                "LKZL",
+                "LKZM",
+                "LKZN"
+            ]
+        ],
+        "cacdId": "CACD ID: VFR_GR"
+    },
+    {
+        "id": "LONDON_GROUP",
+        "definition": [
+            [
+                "EGGW",
+                "EGKB",
+                "EGKK",
+                "EGLC",
+                "EGLL",
+                "EGMC",
+                "EGSC",
+                "EGSS",
+                "EGTO",
+                "EGWU"
+            ]
+        ],
+        "cacdId": "CACD ID: EGTTTMA"
+    },
+    {
+        "id": "LONDON_SOUTH_GROUP",
+        "definition": [
+            [
+                "EGGW",
+                "EGKB",
+                "EGKK EGLC",
+                "EGLL",
+                "EGMC",
+                "EGTO",
+                "EGWU",
+                "FARNBOROUGH_GROUP"
+            ]
+        ],
+        "cacdId": "CACD ID: EGL5"
+    },
+    {
+        "id": "LYON_GROUP",
+        "definition": [
+            [
+                "LFHJ",
+                "LFHS",
+                "LFHV",
+                "LFHW",
+                "LFKL",
+                "LFKY",
+                "LFLG",
+                "LFLL",
+                "LFLM",
+                "LFLS",
+                "LFLU",
+                "LFLY",
+                "LFMH",
+                "LFXA"
+            ]
+        ],
+        "cacdId": "CACD ID: LFLLTMA"
+    },
+    {
+        "id": "MADRID_GROUP",
+        "definition": [
+            [
+                "LECU",
+                "LEGT",
+                "LEMD",
+                "LETO",
+                "LEVS"
+            ]
+        ],
+        "cacdId": "CACD ID: TMALEMD"
+    },
+    {
+        "id": "MALAGA_GROUP",
+        "definition": [
+            [
+                "LEAM",
+                "LEGR",
+                "LEMG",
+                "GEML"
+            ]
+        ],
+        "cacdId": "CACD ID: LEMG+3"
+    },
+    {
+        "id": "MALMO_AREA",
+        "definition": [
+            [
+                "ESGF",
+                "ESGM",
+                "ESGV",
+                "ESMG",
+                "ESMU",
+                "ESMV",
+                "ESMX",
+                "ESMY"
+            ]
+        ],
+        "cacdId": "CACD ID: ESMSTMA2"
+    },
+    {
+        "id": "MALMO_GROUP",
+        "definition": [
+            [
+                "ESFA",
+                "ESME",
+                "ESMF",
+                "ESMH",
+                "ESMI",
+                "ESMJ",
+                "ESMK",
+                "ESML",
+                "ESMS",
+                "ESMT",
+                "ESTA",
+                "ESTL",
+                "ESTT"
+            ]
+        ],
+        "cacdId": "CACD ID: ESMSTMA"
+    },
+    {
+        "id": "MANCHESTER_GROUP",
+        "definition": [
+            [
+                "EGCC",
+                "EGGP",
+                "EGNR"
+            ]
+        ],
+        "cacdId": "CACD ID: EGCCTMA"
+    },
+    {
+        "id": "METZ_GROUP",
+        "definition": [
+            [
+                "LFJL",
+                "LFOK",
+                "LFQA",
+                "LFQB",
+                "LFSN"
+            ]
+        ],
+        "cacdId": "CACD ID: LFJL+3"
+    },
+    {
+        "id": "MIDLANDS_GROUP",
+        "definition": [
+            [
+                "EGBB",
+                "EGBE",
+                "EGNX"
+            ]
+        ],
+        "cacdId": "CACD ID: EGBB+2"
+    },
+    {
+        "id": "MILANO_GROUP",
+        "definition": [
+            [
+                "LIMA",
+                "LIMB",
+                "LIMC",
+                "LIME",
+                "LIMF",
+                "LIMG",
+                "LIMJ",
+                "LIML",
+                "LIMN",
+                "LIMP",
+                "LIMS",
+                "LIMW",
+                "LIMZ",
+                "LSZA",
+                "LSZL",
+                "LSZS"
+            ]
+        ],
+        "cacdId": "CACD ID: TALIM2"
+    },
+    {
+        "id": "MONTPELLIER_GROUP",
+        "definition": [
+            [
+                "LFMT",
+                "LFMU",
+                "LFNG"
+            ]
+        ],
+        "cacdId": "CACD ID: LFMTTMA"
+    },
+    {
+        "id": "MUERITZ_YZ_GROUP",
+        "definition": [
+            [
+                "EDAN",
+                "EDAX",
+                "EDBN",
+                "EDBP",
+                "EDBU",
+                "EDBV",
+                "EDBY",
+                "EDCA",
+                "EDCP",
+                "EDCR",
+                "EDCU",
+                "EDCV",
+                "EDCW",
+                "EDCX",
+                "EDOW",
+                "EDUW"
+            ]
+        ],
+        "cacdId": "CACD ID: MUER GR"
+    },
+    {
+        "id": "MUNICH_GROUP",
+        "definition": [
+            [
+                "EDDM",
+                "EDDN",
+                "EDMA",
+                "EDMO"
+            ]
+        ],
+        "cacdId": "CACD ID: EDDM GR"
+    },
+    {
+        "id": "MUNICH_YZ_GROUP",
+        "definition": [
+            [
+                "EDPD",
+                "EDML",
+                "EDPI",
+                "EDMP",
+                "EDME",
+                "EDNA",
+                "EDMY",
+                "EDMD",
+                "EDMJ",
+                "EDNV",
+                "ETSN"
+            ]
+        ],
+        "cacdId": "CACD ID: EDMYZ"
+    },
+    {
+        "id": "NANTES_GROUP",
+        "definition": [
+            [
+                "LFRE",
+                "LFRI",
+                "LFRS",
+                "LFRZ",
+                "LFFI",
+                "LFOU",
+                "LFEY"
+            ]
+        ],
+        "cacdId": "CACD ID: LFRSTMA"
+    },
+    {
+        "id": "NAT_GROUP",
+        "definition": [
+            [
+                "BG**",
+                "C***",
+                "K***",
+                "M***",
+                "P***",
+                "S***",
+                "T***",
+                "LFVP",
+                "LFVM",
+                "EGYP"
+            ]
+        ],
+        "cacdId": "CACD ID: TANAT"
+    },
+    {
+        "id": "NICE_GROUP",
+        "definition": [
+            [
+                "LFMD",
+                "LFMF",
+                "LFMN",
+                "LFTZ"
+            ]
+        ],
+        "cacdId": "CACD ID: LFMNTMA"
+    },
+    {
+        "id": "NURNBERG_AREA",
+        "definition": [
+            [
+                "EDDN",
+                "EDQA",
+                "EDQC",
+                "EDQD",
+                "EDQE",
+                "EDQF",
+                "EDQH",
+                "EDQI",
+                "EDQK",
+                "EDQM",
+                "EDQN",
+                "EDQO",
+                "EDQP",
+                "EDQR",
+                "EDQS",
+                "EDQT",
+                "EDQW",
+                "EDQX",
+                "EDQY",
+                "EDQZ ETEB",
+                "ETIC"
+            ]
+        ],
+        "cacdId": "CACD ID: EDDN GR"
+    },
+    {
+        "id": "ORLY_GROUP",
+        "definition": [
+            [
+                "LFAI",
+                "LFPM",
+                "LFPN",
+                "LFPO",
+                "LFPV"
+            ]
+        ],
+        "cacdId": "CACD ID: LFPO+"
+    },
+    {
+        "id": "OSLO_GROUP",
+        "definition": [
+            [
+                "ENDH",
+                "ENEG",
+                "ENGM",
+                "ENHA",
+                "ENHS",
+                "ENKJ",
+                "ENLX",
+                "ENRH",
+                "ENRV",
+                "ENRX",
+                "ENSI",
+                "ENUH"
+            ]
+        ],
+        "cacdId": "CACD ID: ENGMGRP"
+    },
+    {
+        "id": "OSTGOTA_GROUP",
+        "definition": [
+            [
+                "ESCF",
+                "ESKK",
+                "ESKN",
+                "ESOE",
+                "ESSL",
+                "ESSP",
+                "ESVK"
+            ]
+        ],
+        "cacdId": "CACD ID: OSTGOTA"
+    },
+    {
+        "id": "OUTSIDE_GROUP",
+        "definition": [
+            [
+                "BG**",
+                "C***",
+                "K***",
+                "M***",
+                "P***",
+                "R***",
+                "V***",
+                "Z***",
+                "D***",
+                "F***",
+                "H***",
+                "O***",
+                "W***",
+                "Y***",
+                "A***",
+                "N***",
+                "S***",
+                "T***",
+                "UA***",
+                "UE**",
+                "UH**",
+                "UI**",
+                "UL**",
+                "UO**",
+                "UR**",
+                "US**",
+                "UT**",
+                "UU**",
+                "UW**",
+                "GA**",
+                "GB**",
+                "GF**",
+                "GG**",
+                "GL**",
+                "GO**",
+                "GQ**",
+                "GS**",
+                "GU**",
+                "GV**",
+                "UN**"
+            ]
+        ],
+        "cacdId": ""
+    },
+    {
+        "id": "PALMA_GROUP",
+        "definition": [
+            [
+                "LEPA",
+                "LESB",
+                "LESJ"
+            ]
+        ],
+        "cacdId": "CACD ID: LEPASJ"
+    },
+    {
+        "id": "PARDUBICE_GROUP",
+        "definition": [
+            [
+                "LKPD",
+                "LKCV",
+                "LKHK"
+            ]
+        ],
+        "cacdId": "CACD ID: LKPD GR"
+    },
+    {
+        "id": "PARIS_GROUP",
+        "definition": [
+            [
+                "LFPB",
+                "LFPG",
+                "LFPN",
+                "LFPO",
+                "LFPT",
+                "LFPV"
+            ]
+        ],
+        "cacdId": "CACD ID: LFPTMA"
+    },
+    {
+        "id": "PARISTMA23_VFR_GROUP",
+        "definition": [
+            [
+                "LFPL",
+                "LFPP",
+                "LFPH",
+                "LFFE",
+                "LFPE",
+                "LFFQ",
+                "LFPZ",
+                "LFPX",
+                "LFPK",
+                "LFPQ",
+                "LFAD",
+                "LFPA",
+                "LFXU",
+                "LFPF"
+            ]
+        ],
+        "cacdId": "Non-IFR AD's in CTR Paris and below TMA Paris 2 and 3\nCACD ID: LFPTMA23"
+    },
+    {
+        "id": "POITIERS_GROUP",
+        "definition": [
+            [
+                "LFBI",
+                "LFBN",
+                "LFLX"
+            ]
+        ],
+        "cacdId": "CACD ID: LFBITMA"
+    },
+    {
+        "id": "PRAGUE_GROUP",
+        "definition": [
+            [
+                "LKKB",
+                "LKPR",
+                "LKVO"
+            ]
+        ],
+        "cacdId": "CACD ID: LKPR GR"
+    },
+    {
+        "id": "PROVENCE_GROUP",
+        "definition": [
+            [
+                "LFMA",
+                "LFML",
+                "LFMO",
+                "LFMQ",
+                "LFMV",
+                "LFMY",
+                "LFNE",
+                "LFNF",
+                "LFNT"
+            ]
+        ],
+        "cacdId": "CACD ID: LFMLTMA"
+    },
+    {
+        "id": "PYRENEES_GROUP",
+        "definition": [
+            [
+                "LFBA",
+                "LFBP",
+                "LFBT",
+                "LFCN",
+                "LFDH"
+            ]
+        ],
+        "cacdId": "CACD ID: LFBTTMA"
+    },
+    {
+        "id": "RENNES_GROUP",
+        "definition": [
+            [
+                "LFRN",
+                "LFRD",
+                "LFRT"
+            ]
+        ],
+        "cacdId": "CACD ID: LFRNTMA"
+    },
+    {
+        "id": "RHONE_GROUP",
+        "definition": [
+            [
+                "LFHO",
+                "LFME",
+                "LFMI",
+                "LFMS",
+                "LFTW"
+            ]
+        ],
+        "cacdId": "CACD ID: TARHONE"
+    },
+    {
+        "id": "ROISSY_GROUP",
+        "definition": [
+            [
+                "LFPB",
+                "LFPG",
+                "LFPT"
+            ]
+        ],
+        "cacdId": "CACD ID: LFPG+"
+    },
+    {
+        "id": "ROME_GROUP",
+        "definition": [
+            [
+                "LIRA",
+                "LIRE",
+                "LIRF",
+                "LIRU"
+            ]
+        ],
+        "cacdId": "CACD ID: TALIR1"
+    },
+    {
+        "id": "SAINT_YAN_GROUP",
+        "definition": [
+            [
+                "LFGM",
+                "LFGN",
+                "LFHY",
+                "LFLN",
+                "LFLO",
+                "LFQF"
+            ]
+        ],
+        "cacdId": "CACD ID: LFLNTMA"
+    },
+    {
+        "id": "SATENAS_GROUP",
+        "definition": [
+            [
+                "ESEN",
+                "ESFR",
+                "ESGL",
+                "ESGO",
+                "ESGT",
+                "ESIB"
+            ]
+        ],
+        "cacdId": "CACD ID: ESIBTMA"
+    },
+    {
+        "id": "SCOTTISH_GROUP",
+        "definition": [
+            [
+                "EGPF",
+                "EGPG",
+                "EGPH",
+                "EGPK",
+                "EGPN",
+                "EGQL"
+            ]
+        ],
+        "cacdId": "CACD ID: EGPFTMA"
+    },
+    {
+        "id": "SEINE_GROUP",
+        "definition": [
+            [
+                "LFQA",
+                "LFOK",
+                "LFQB",
+                "LFLA",
+                "LFSI",
+                "LFGE",
+                "LFFR",
+                "LFFN",
+                "LFQK",
+                "LFQH",
+                "LFJA",
+                "LFSW",
+                "LFQX",
+                "LFGK",
+                "LFGP",
+                "LFGQ",
+                "LFFZ",
+                "LFSK",
+                "LFPM",
+                "LFOZ",
+                "LFOJ",
+                "LFOX",
+                "LFPU",
+                "LFAI",
+                "LFFP",
+                "LFGO",
+                "LFEM",
+                "LFEI",
+                "LFOQ",
+                "LFOT",
+                "LFEF",
+                "LFOR",
+                "LFEN"
+            ]
+        ],
+        "cacdId": ""
+    },
+    {
+        "id": "SEVERN_GROUP",
+        "definition": [
+            [
+                "EGFF",
+                "EGFH",
+                "EGGD",
+                "EGSY"
+            ]
+        ],
+        "cacdId": "CACD ID: CFEGDX"
+    },
+    {
+        "id": "SEVILLE_GROUP",
+        "definition": [
+            [
+                "LEJR",
+                "LEMO",
+                "LERT",
+                "LEZL"
+            ]
+        ],
+        "cacdId": "CACD ID: LEZLTMA"
+    },
+    {
+        "id": "SHANNON_GROUP",
+        "definition": [
+            [
+                "EICK",
+                "EIDL",
+                "EIKN",
+                "EIKY",
+                "EINN",
+                "EISG",
+                "EIWF"
+            ]
+        ],
+        "cacdId": "CACD ID: EINNGR"
+    },
+    {
+        "id": "STOCKHOLM_AREA",
+        "definition": [
+            [
+                "ESCF",
+                "ESGJ",
+                "ESIA",
+                "ESKG",
+                "ESKK",
+                "ESKN",
+                "ESKT",
+                "ESOE",
+                "ESOL",
+                "ESQO",
+                "ESSC",
+                "ESSD",
+                "ESSG",
+                "ESSI",
+                "ESSK",
+                "ESSL",
+                "ESSP",
+                "ESSW",
+                "ESVA",
+                "ESVB",
+                "ESVK",
+                "ESVQ",
+                "EFMA"
+            ]
+        ],
+        "cacdId": "CACD ID: ESOSTMA2"
+    },
+    {
+        "id": "STOCKHOLM_GROUP",
+        "definition": [
+            [
+                "ESCM",
+                "ESKC",
+                "ESOW",
+                "ESSA",
+                "ESSB",
+                "ESSE",
+                "ESSN",
+                "ESSU",
+                "ESSX",
+                "ESSZ"
+            ]
+        ],
+        "cacdId": "CACD ID: ESOSTMA"
+    },
+    {
+        "id": "STRASBOURG_GROUP",
+        "definition": [
+            [
+                "LFGC",
+                "LFQP",
+                "LFST",
+                "EDSB",
+                "EDSK",
+                "EDSW",
+                "EDTB",
+                "EDTL",
+                "EDTO"
+            ]
+        ],
+        "cacdId": "CACD ID: LFSTTMA"
+    },
+    {
+        "id": "STUTTGART_YZ_GROUP",
+        "definition": [
+            [
+                "EDFV",
+                "EDGO",
+                "EDMB",
+                "EDMC",
+                "EDMG",
+                "EDMH",
+                "EDMT",
+                "EDND",
+                "EDNE",
+                "EDNG",
+                "EDNL",
+                "EDNT",
+                "EDNO",
+                "EDNQ",
+                "EDNW",
+                "EDPA",
+                "EDPB",
+                "EDPJ",
+                "EDPM",
+                "EDPT",
+                "EDPU",
+                "EDPY",
+                "EDRY",
+                "EDSA",
+                "EDSH",
+                "EDSW",
+                "EDTB",
+                "EDTF",
+                "EDTH",
+                "EDTN",
+                "EDTO",
+                "EDTW",
+                "EDTX",
+                "EDTY"
+            ]
+        ],
+        "cacdId": "CACD ID: EDDS GR"
+    },
+    {
+        "id": "SUEBIA_YZ_GROUP",
+        "definition": [
+            [
+                "EDEW",
+                "EDGU",
+                "EDQB",
+                "EDFR",
+                "EDGM",
+                "EDGI",
+                "EDTX",
+                "EDSH",
+                "EDTQ",
+                "EDSE",
+                "EDND",
+                "EDPY",
+                "EDNQ",
+                "EDTH",
+                "EDPA",
+                "EDPU",
+                "EDPM"
+            ]
+        ],
+        "cacdId": "CACD ID: EDTY GR"
+    },
+    {
+        "id": "TMAPRVFR_GROUP",
+        "definition": [
+            [
+                "LKPS",
+                "LKRY",
+                "LKPL",
+                "LKHV",
+                "LKPM",
+                "LKBE",
+                "LKVL",
+                "LKTC",
+                "LKBU",
+                "LKLT",
+                "LKKL",
+                "LKSN",
+                "LKRK",
+                "LKSZ",
+                "LKPC",
+                "LKRO",
+                "LKRA",
+                "LKMB",
+                "LKLN",
+                "LKMO",
+                "LKZD"
+            ]
+        ],
+        "cacdId": "CACD ID: TMAVFR_G"
+    },
+    {
+        "id": "TOULON_GROUP",
+        "definition": [
+            [
+                "LFMC",
+                "LFTF",
+                "LFTH"
+            ]
+        ],
+        "cacdId": "CACD ID: TATOULON"
+    },
+    {
+        "id": "TOULOUSE_GROUP",
+        "definition": [
+            [
+                "LFBF",
+                "LFBO",
+                "LFBR",
+                "LFCI",
+                "LFCK",
+                "LFCL",
+                "LFCQ",
+                "LFCX",
+                "LFDB",
+                "LFDG",
+                "LFDJ",
+                "LFIR",
+                "LFIT",
+                "LFMG",
+                "LFMK",
+                "LFMW"
+            ]
+        ],
+        "cacdId": "CACD ID: LFBOTMA"
+    },
+    {
+        "id": "TRONDHEIM_GROUP",
+        "definition": [
+            [
+                "ENRT",
+                "ENTR",
+                "ENVA"
+            ]
+        ],
+        "cacdId": ""
+    },
+    {
+        "id": "VALENCIA_GROUP",
+        "definition": [
+            [
+                "LEAL",
+                "LECH",
+                "LELC",
+                "LEVC",
+                "LEMI"
+            ]
+        ],
+        "cacdId": "CACD ID: LEVCGR"
+    },
+    {
+        "id": "WESSEX_GROUP",
+        "definition": [
+            [
+                "EGHL",
+                "EGLK",
+                "EGTD",
+                "EGTF",
+                "EGVO"
+            ]
+        ],
+        "cacdId": "Additional Group to facilitate the changes to Farnborough routings\nCACD ID: EGHL+5"
+    },
+    {
+        "id": "ZURICH_AREA",
+        "definition": [
+            [
+                "LSMA",
+                "LSMD",
+                "LSME",
+                "LSMM",
+                "LSPR",
+                "LSZA",
+                "LSZB",
+                "LSZC",
+                "LSZG",
+                "LSZH",
+                "LSZL",
+                "LSZM",
+                "LSZR",
+                "LSZS",
+                "EDNY",
+                "EDTD",
+                "EDTM"
+            ]
+        ],
+        "cacdId": "CACD ID: LSAZCTA"
+    },
+    {
+        "id": "ZURICH_APP_GROUP",
+        "definition": [
+            [
+                "EDTD",
+                "LSMD",
+                "LSZH",
+                "LSZM",
+                "LSZF",
+                "LSPV",
+                "LSZK",
+                "LSPN",
+                "LSZN"
+            ]
+        ],
+        "cacdId": "CACD ID: LSZHAPP"
+    }
+]
